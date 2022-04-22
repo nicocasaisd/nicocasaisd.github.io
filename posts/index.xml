@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Nicolas Casais Dassie Blog</title>
+    <link>https://nicocasaisd.github.io/posts/</link>
+    <description>Recent content in Posts on Nicolas Casais Dassie Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Apr 2022 22:29:26 -0300</lastBuildDate>
+    
+	<atom:link href="https://nicocasaisd.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My first post! &lt;3</title>
+      <link>https://nicocasaisd.github.io/posts/mypost/</link>
+      <pubDate>Thu, 21 Apr 2022 22:29:26 -0300</pubDate>
+      
+      <guid>https://nicocasaisd.github.io/posts/mypost/</guid>
+      <description>This is some content
+&amp;lsquo;&amp;lsquo;&amp;lsquo;python def function(): return 0 &#39;&amp;rsquo;&amp;rsquo;</description>
+    </item>
+    
+  </channel>
+</rss>
