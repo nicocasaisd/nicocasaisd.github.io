@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Nicolas Casais Dassie Blog</title>
+    <title>Posts on nicocasaisd.github.io</title>
     <link>https://nicocasaisd.github.io/posts/</link>
-    <description>Recent content in Posts on Nicolas Casais Dassie Blog</description>
+    <description>Recent content in Posts on nicocasaisd.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Apr 2022 22:29:26 -0300</lastBuildDate>
@@ -12,13 +12,13 @@
     
     
     <item>
-      <title>My first post! &lt;3</title>
+      <title>GSoC 2022 Proposal Sent</title>
       <link>https://nicocasaisd.github.io/posts/mypost/</link>
       <pubDate>Thu, 21 Apr 2022 22:29:26 -0300</pubDate>
       
       <guid>https://nicocasaisd.github.io/posts/mypost/</guid>
-      <description>Trying out my new blog. Soon to be fixed and up!
-:D</description>
+      <description>About me: I’m Nicolás from Argentina. I have a background in acoustics, digital signal processing and audio. In the last couple of years I became interested in deep learning audio applications and would like to combine my previous knowledge with new and exciting developments.
+I have a bachelor degree in Audiovisual Technologies (UNLA) and I’m currently studying to get a diploma in programming at UTN (Universidad Tecnológica Nacional) in Buenos Aires.</description>
     </item>
     
   </channel>
